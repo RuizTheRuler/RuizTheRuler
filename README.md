@@ -8,12 +8,13 @@
     - Here's my work-in-progress:   
 
 ## 🤔 I’m looking for help...
-    -  from anyone interested in CS education. I welcome any suggestions or contributions in any of my projects!! What are you working on?
+-  from anyone interested in CS education. I welcome any suggestions or contributions in any of my projects!! What are you working on?
     
 ## ⚡ Fun facts: ...
-    - I am an indoor plant enthusiast
-    - My Mastiff is double my size :heart:
-    - I'm always cold... brrrr
+- I am an indoor plant enthusiast
+- My Mastiff is double my size :heart:
+- I'm always cold... brrrr
+- I want to play in Git all day.... lol
 
 
 <!--
