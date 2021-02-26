@@ -1,9 +1,17 @@
 # Hi there 👋
 <kbd><strong>[⁉️ Ask me anything](https://github.com/RuizTheRuler/RuizTheRuler/issues/new?assignees=RuizTheRuler&labels=ama&template=ama.md&title=%5BAMA%5D)</strong>
 
-- 🔭 I’m currently working on automating and improving the flow of programming assignments for myself, my students, and any other instructors who use my materials. My goal is to incorporate automated, immediate, and actionable feedback to my students while they learn programming using the real-life tools they'll need as developers. I've been having **way too much fun with this!**. I've also been working on creating "short-and-to-the-point" reference materials that are also highly interactive (and *free*, because I've been a broke student and know what that's like).
+- 🔭 I’m currently working on...
+    -  automating and improving the flow of programming assignments for myself, my students, and any other instructors who use my materials. My goal is to incorporate automated, immediate, and actionable feedback to my students while they learn programming using the real-life tools they'll need as developers. I've been having **way too much fun with this!**. 
+    -  I've also been working on creating "short-and-to-the-point" reference materials that are highly interactive and *free*, because I've been a broke college student and know what that's like. Also, many paid options are sub-par tbh.
 
-- 🤔 I’m looking for help from anyone interested in CS education. I welcome any suggestions or contributions!!
+- 🤔 I’m looking for help...
+    -  from anyone interested in CS education. I welcome any suggestions or contributions in any of my projects!! What are you working on?
+    
+- ⚡ Fun facts: ...
+    - I am an indoor plant enthusiast
+    - My Mastiff is double my size :heart:
+    - I'm always cold... brrrr
 
 
 <!--
