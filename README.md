@@ -12,9 +12,11 @@
     
 ## ⚡ Fun facts: ...
 - I am an indoor plant enthusiast
+- I really want a developer job
 - My Mastiff is double my size :heart:
 - I'm always cold... brrrr
 - I want to play in Git all day.... lol
+- 
 
 
 <!--
