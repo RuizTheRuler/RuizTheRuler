@@ -1,5 +1,5 @@
 ### Hi there 👋
-<kbd><strong>[⁉️ Ask me anything](https://github.com/RuizTheRuler/RuizTheRuler/issues/new?assignees=RuizTheRuler&labels=ama&template=ama.md&title=%5BAMA%5D)</strong>
+<kbd><strong>[⁉️ Ask me anything](https://github.com/RuizTheRuler/RuizTheRuler/issues/new?assignees=RuizTheRuler&labels=ama&template=ama.md&title=Ask me anything...)</strong>
 <!--
 **RuizTheRuler/RuizTheRuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
