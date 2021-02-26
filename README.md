@@ -12,7 +12,7 @@
     
 ## ⚡ Fun facts: ...
 - I am an indoor plant enthusiast
-- I really want a developer job
+- I want to be a developer when I grow up... :upside_down_face: :wink:
 - My Mastiff is double my size :heart:
 - I'm always cold... brrrr
 - I want to play in Git all day.... lol
