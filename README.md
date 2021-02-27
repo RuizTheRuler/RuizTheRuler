@@ -7,3 +7,13 @@
     
 -  I've also been working on creating "short-and-to-the-point" reference materials that are highly interactive and *free*, because I've been a broke college student and know what that's like. Also, many paid options are sub-par anyways.
     - Here's my work-in-progress: https://cs-1400.github.io/
+
+## 🤔 I’m looking for help...
+-  from anyone interested in CS education. I welcome any suggestions or contributions in any of my projects!! What are you working on?
+
+## ⚡ Fun facts: ...
+- I am an indoor plant enthusiast
+- I really want a developer job
+- My Mastiff is double my size :heart:
+- I'm always cold... brrrr
+- I want to play in Git all day.... lol
