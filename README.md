@@ -7,5 +7,3 @@
     
 -  I've also been working on creating "short-and-to-the-point" reference materials that are highly interactive and *free*, because I've been a broke college student and know what that's like. Also, many paid options are sub-par anyways.
     - Here's my work-in-progress: https://cs-1400.github.io/
-
-## 🤔 What are you working on?
