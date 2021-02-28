@@ -8,6 +8,9 @@
 -  I've also been working on creating "short-and-to-the-point" reference materials that are highly interactive and *free*, because I've been a broke college student and know what that's like. Also, many paid options are sub-par anyways.
     - Here's my work-in-progress: https://cs-1400.github.io/
 
+- Also, here's my little bot, :robot: doing bot things lol... She lives on [Heroku](https://www.heroku.com/) and comes down to play when I summon her with my spell of automation. :upside_down_face: 
+    - https://github.com/RuizTheRuler-bot
+
 ## 🤔 I’m looking for help...
 -  from anyone interested in CS education. I welcome any suggestions or contributions in any of my projects!! What are you working on?
 
