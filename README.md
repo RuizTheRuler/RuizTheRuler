@@ -3,7 +3,8 @@
 
 ## 🔭 I’m currently working on...
 -  Automating and improving the flow of programming assignments for myself, my students, and any other instructors who want to use my materials. My goal is to incorporate automated, immediate, specific, and actionable feedback instead of an arbitrary grade at the end of a project... I've been having **way too much fun with this!**.
-    - Try out an [example assignment](https://classroom.github.com/a/AXBkx-W5)   
+    - Try out an [example assignment](https://classroom.github.com/a/AXBkx-W5) 
+    - Here's a [video](https://youtu.be/gdc-SYhRFCM) walk-through of the assignment  
     
 -  I've also been working on creating "short-and-to-the-point" reference materials that are highly interactive and *free*, because I've been a broke college student and know what that's like. Also, many paid options are sub-par anyways.
     - Here's my work-in-progress: [Python Text](https://cs-1400.github.io/)
