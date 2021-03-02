@@ -15,7 +15,12 @@
 ## 🤔 I’m looking for help...
 -  from anyone interested in CS education. I welcome any suggestions or contributions in any of my projects!! What are you working on?
 
-## ⚡ Fun facts: ...
+## ⚡ Fun facts: 
 - I am an indoor plant enthusiast
 - My Mastiff is double my size :heart:
 - I'm always cold... brrrr
+
+## :unicorn: Socials...
+- [LinkedIn](https://www.linkedin.com/in/biancaburton/)
+- [YouTube](https://www.youtube.com/user/StopTalkingNonsense1/featured)
+- [Facebook](https://www.facebook.com/bianca.k.burton)
