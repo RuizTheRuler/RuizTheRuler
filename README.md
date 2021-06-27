@@ -23,4 +23,4 @@
 ## :unicorn: Socials...
 - [LinkedIn](https://www.linkedin.com/in/biancaburton/)
 - [YouTube](https://www.youtube.com/user/StopTalkingNonsense1/featured)
-- [Facebook](https://www.facebook.com/bianca.k.burton)
+- [Facebook](https://www.facebook.com/bianca.the.ruler)
